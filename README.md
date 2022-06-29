@@ -1,4 +1,4 @@
 ### Venkat Ramaraju 
 
-- 💻 Software Engineer at Red Hat, Operator-SDK
+- 💻 Software Development Engineer at Amazon, Alexa AI
 - 🔱 Arizona State University Computer Science Alum
