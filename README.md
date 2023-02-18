@@ -1,4 +1,4 @@
 ### Venkat Ramaraju 
 
-- 💻 Software Development Engineer at Amazon, Alexa AI
+- 💻 Software Engineer @ [TabaPay](https://www.tabapay.com/)
 - 🔱 Arizona State University Computer Science Alum
