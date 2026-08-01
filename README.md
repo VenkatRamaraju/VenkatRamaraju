@@ -1,5 +1,6 @@
 ### Venkat Ramaraju 
 
-- 💻 Software Engineer @ [TabaPay](https://www.tabapay.com/)
-- 🔱 Arizona State University Computer Science Alum
+- 💻 Engineering Manager @ [TabaPay](https://www.tabapay.com/)
+- 🌲 MS Student @ Stanford
+- 🔬 Researcher @ Alsentzer Labs, Stanford
 - 🌐 Website: https://venkatramaraju.github.io/website/
